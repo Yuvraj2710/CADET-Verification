@@ -1,0 +1,12 @@
+Benchmark,Nd,Mean t_CGL/t_LGL,Min ratio,Max ratio,Std ratio,N levels (excl. 2 coarsest)
+LRM Linear 1-comp,1,1.0011,0.9902,1.0096,0.0065,8
+LRM Linear 1-comp,2,0.9760,0.8593,1.0129,0.0492,8
+LRM Linear 1-comp,3,0.9970,0.9819,1.0243,0.0154,6
+LRM Linear 1-comp,4,0.9904,0.9788,0.9989,0.0070,5
+LRM Linear 1-comp,5,0.9858,0.9406,1.0046,0.0262,4
+LRM Linear 1-comp,6,0.9764,0.9526,0.9948,0.0139,5
+LRM SMA 4-comp,1,1.0000,0.9935,1.0065,0.0046,8
+LRM SMA 4-comp,2,0.9987,0.9861,1.0132,0.0082,7
+LRM SMA 4-comp,3,1.0444,1.0021,1.1424,0.0509,5
+LRM SMA 4-comp,4,0.9979,0.8367,1.1271,0.1040,4
+LRM SMA 4-comp,5,1.0120,1.0051,1.0189,0.0069,2
